@@ -1,0 +1,32 @@
+body {
+    background-color: aqua;
+}
+
+h1 {
+    color: rgb(98, 0, 255);
+}
+
+a {
+    color: brown;
+}
+
+h2 {
+    color: blueviolet;
+}
+
+img {
+    width: 300px;
+    margin-left: 50px;
+}
+
+.big_text {
+    font-size: 1.5rem;
+}
+
+a:hover {
+    color: aquamarine;
+}
+
+.border {
+    border: solid red 5px;
+}
